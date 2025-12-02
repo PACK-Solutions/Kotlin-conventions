@@ -4,6 +4,8 @@ style:
     MaxLineLength:
         active: true
         maxLineLength: 160
+    ReturnCount:
+        excludeGuardClauses: true
 
 formatting:
     NoWildcardImports:
